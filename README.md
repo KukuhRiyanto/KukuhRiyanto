@@ -1,6 +1,7 @@
 # Hi all, I'm Kukuh Riyanto 👋
 
-<img width="999" height="179" alt="Classroom Banner - Made with PosterMyWall" src="https://github.com/user-attachments/assets/7a4b48c6-cc3e-48d5-81e3-ecccfcbfd31c" />
+<img width="999" height="179" alt="Classroom Banner - Made with PosterMyWall" src="https://github.com/user-attachments/assets/242ef1c8-a95f-47b9-b496-a7227811eeac" />
+
 
 
 ## About Me 🚀
