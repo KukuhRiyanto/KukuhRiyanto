@@ -8,9 +8,9 @@
 
 I'm a passionate a policy analyst interested in technology with experience in policy analyst, database, asset management and valuation. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: AI & Machine Learning, Python, C++ Programming and SQLplus Oracle.
+- 🌱 Currently learning: AI & Machine Learning, Python, C++ Programming and Oracle (SQLplus).
 - 📫 How to reach me: kukuhriyanto@gmail.com.
-- ⚡ Fun fact: I come from small village that currently work and improve on my  knowledge and Skills.
+- ⚡ Fun fact: I come from small village that currently work and improve on my knowledge and skills.
 
 
 
