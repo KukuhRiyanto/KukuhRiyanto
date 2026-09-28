@@ -24,6 +24,10 @@ I'm a passionate a policy analyst interested in technology with experience in po
 
 <img width="47" height="47" alt="c-" src="https://github.com/user-attachments/assets/7f84cd7a-ea52-4bb6-9e89-584c35cda09f" />
 
+<img width="47" height="47" alt="manajemen-aset" src="https://github.com/user-attachments/assets/99f2e322-9387-41c1-b0e7-54712ca2e3a8" />
+
+<img width="47" height="47" alt="valuation" src="https://github.com/user-attachments/assets/b362e97d-b394-43e0-bc38-844b4b733400" />
+
 
 
 ## Get in Touch 📬
