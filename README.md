@@ -16,15 +16,15 @@ I'm a passionate a policy analyst interested in technology with experience in po
 
 ## My Skills 🚀
 
-<img width="47" height="47" alt="mysql" src="https://github.com/user-attachments/assets/2387f765-32f5-4dac-a7f5-bcf5d75b6d28" />
+<img width="47" height="47" alt="mysql" src="https://github.com/user-attachments/assets/3217d997-d2d6-484a-8a19-93f0f05e2527" />
 
-<img width="47" height="47" alt="icons8-oracle-logo-64" src="https://github.com/user-attachments/assets/cd37ac70-e24e-48ef-80aa-5fad87d6c42e" />
+<img width="47" height="47" alt="oracle" src="https://github.com/user-attachments/assets/497be8cb-788b-42f4-8278-1bf94f4b9f14" />
 
-<img width="47" height="47" alt="icons8-python-48" src="https://github.com/user-attachments/assets/8e44306c-a61a-44aa-b67e-a9b1a5c50dda" />
+<img width="47" height="47" alt="python" src="https://github.com/user-attachments/assets/db7e8ff3-42f9-4877-b61a-4705ac93b78a" />
 
-<img width="47" height="47" alt="c-" src="https://github.com/user-attachments/assets/7f84cd7a-ea52-4bb6-9e89-584c35cda09f" />
+<img width="47" height="47" alt="C++" src="https://github.com/user-attachments/assets/7c8f1e25-3c55-4185-b977-399a4117b501" />
 
-<img width="47" height="47" alt="manajemen-aset" src="https://github.com/user-attachments/assets/99f2e322-9387-41c1-b0e7-54712ca2e3a8" />
+<img width="47" height="47" alt="manajemen-aset" src="https://github.com/user-attachments/assets/4c2fe0a5-9d2f-4684-8b98-a2e08f234c17" />
 
 <img width="47" height="47" alt="valuation" src="https://github.com/user-attachments/assets/b362e97d-b394-43e0-bc38-844b4b733400" />
 
