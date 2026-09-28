@@ -13,6 +13,7 @@ I'm a passionate a policy analyst interested in technology with experience in po
 - ⚡ Fun fact: I come from small village that currently work and improve on my  knowledge and Skills.
 
 
+
 ## My Skills 🚀
 
 <img width="47" height="47" alt="mysql" src="https://github.com/user-attachments/assets/2387f765-32f5-4dac-a7f5-bcf5d75b6d28" />
