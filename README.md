@@ -12,7 +12,7 @@ I'm a passionate a policy analyst interested in technology with experience in po
 - 📫 How to reach me: kukuhriyanto@gmail.com.
 - ⚡ Fun fact: I come from small village that currently work and improve on my  knowledge and Skills.
 
-## My Skills 🧠
+## My Skills 🚀
 
 <img width="47" height="47" alt="mysql" src="https://github.com/user-attachments/assets/3f682d74-fc95-4e0c-9091-f75f9130182a" />
 
