@@ -12,15 +12,17 @@ I'm a passionate a policy analyst interested in technology with experience in po
 - 📫 How to reach me: kukuhriyanto@gmail.com.
 - ⚡ Fun fact: I come from small village that currently work and improve on my  knowledge and Skills.
 
+
 ## My Skills 🚀
 
-<img width="47" height="47" alt="mysql" src="https://github.com/user-attachments/assets/3f682d74-fc95-4e0c-9091-f75f9130182a" />
+<img width="47" height="47" alt="mysql" src="https://github.com/user-attachments/assets/2387f765-32f5-4dac-a7f5-bcf5d75b6d28" />
 
-<img width="47" height="47" alt="icons8-oracle-logo-64" src="https://github.com/user-attachments/assets/c397f847-7294-4afc-84ac-7f207cf271c5" />
+<img width="47" height="47" alt="icons8-oracle-logo-64" src="https://github.com/user-attachments/assets/cd37ac70-e24e-48ef-80aa-5fad87d6c42e" />
 
-<img width="47" height="47" alt="icons8-python-48" src="https://github.com/user-attachments/assets/85c0c08d-4e14-493c-81ce-95ce70717c31" />
+<img width="47" height="47" alt="icons8-python-48" src="https://github.com/user-attachments/assets/8e44306c-a61a-44aa-b67e-a9b1a5c50dda" />
 
-<img width="47" height="47" alt="c-" src="https://github.com/user-attachments/assets/12d732fc-cb7b-48d1-bfe7-93ac9e3e825e" />
+<img width="47" height="47" alt="c-" src="https://github.com/user-attachments/assets/7f84cd7a-ea52-4bb6-9e89-584c35cda09f" />
+
 
 
 ## Get in Touch 📬
