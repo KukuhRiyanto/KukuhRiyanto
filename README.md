@@ -1,6 +1,6 @@
 
 <!-- =========================================================
-     # Hi all, I'm Kukuh Riyanto 👋 | PROFESSIONAL GITHUB PROFILE
+     # KUKUH RIYANTO | PROFESSIONAL GITHUB PROFILE
      ========================================================= -->
 
 <h1 align="center">Kukuh Riyanto</h1>
