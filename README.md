@@ -212,23 +212,32 @@ A proposed research direction exploring how data analytics and artificial intell
 
 </details>
 
+
 ---
 
 ## 🧠 My Learning Roadmap
 
 ```mermaid
 flowchart TD
-    A["01 · Programming Fundamentals"] --> B["02 · Database Management & SQL"]
-    B --> C["03 · Statistics & Data Analysis"]
-    C --> D["04 · Artificial Intelligence"]
-    D --> E["05 · Machine Learning & Prediction"]
-    E --> F["06 · Graph Neural Networks"]
-    F --> G["07 · Real-World Decision Support"]
+    A["01 | Programming Fundamentals<br/>Python · C++"] 
+    B["02 | Database Management<br/>MySQL · Oracle SQL"]
+    C["03 | Statistics & Data Analysis"]
+    D["04 | Artificial Intelligence<br/>BFS · DFS · Heuristics"]
+    E["05 | Machine Learning<br/>Prediction & Evaluation"]
+    F["06 | Advanced Analytics<br/>Graph Neural Networks"]
+    G["07 | Real-World Applications<br/>Intelligent Village Asset Management"]
 
-    classDef foundation fill:#142D4E,stroke:#4DA3FF,color:#FFFFFF
-    classDef analytics fill:#153E38,stroke:#34D399,color:#FFFFFF
-    classDef advanced fill:#35245C,stroke:#A78BFA,color:#FFFFFF
-    classDef impact fill:#59401B,stroke:#FBBF24,color:#FFFFFF
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+
+    classDef foundation fill:#16324F,stroke:#4DA3FF,color:#FFFFFF
+    classDef analytics fill:#14532D,stroke:#4ADE80,color:#FFFFFF
+    classDef advanced fill:#3B2768,stroke:#A78BFA,color:#FFFFFF
+    classDef impact fill:#78350F,stroke:#FBBF24,color:#FFFFFF
 
     class A,B foundation
     class C,D analytics
@@ -237,8 +246,11 @@ flowchart TD
 ```
 
 <p align="center">
-  <em>Learn the fundamentals → Build practical skills → Solve meaningful problems.</em>
+  <em>Learn the fundamentals → Build practical skills → Create meaningful impact.</em>
 </p>
+
+---
+
 
 ### My Learning Principles
 
