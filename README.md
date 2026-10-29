@@ -261,6 +261,7 @@ flowchart TD
 - 🤝 Share knowledge and collaborate with others.
 - 🌍 Connect technical solutions with real-world development needs.
 
+
 ---
 
 ## 📊 GitHub Activity
@@ -268,38 +269,37 @@ flowchart TD
 <p align="center">
   <a href="https://github.com/KukuhRiyanto">
     <img
+      src="https://github-stats-extended.vercel.app/api?username=KukuhRiyanto&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
+      alt="GitHub Account Statistics"
       width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=KukuhRiyanto&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
-      alt="GitHub account statistics"
     />
   </a>
   <a href="https://github.com/KukuhRiyanto">
     <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=KukuhRiyanto&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Most Used Programming Languages"
       width="49%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KukuhRiyanto&layout=compact&theme=tokyonight&hide_border=true"
-      alt="Most-used programming languages"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KukuhRiyanto">
-    <img
-      width="75%"
-      src="https://streak-stats.demolab.com?user=KukuhRiyanto&theme=tokyonight&hide_border=true"
-      alt="GitHub contribution streak"
     />
   </a>
 </p>
 
 <p align="center">
   <img
+    src="https://streak-stats.demolab.com?user=KukuhRiyanto&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="75%"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://komarev.com/ghpvc/?username=KukuhRiyanto&label=Profile%20Views&color=00D9A6&style=flat-square"
-    alt="GitHub profile views"
+    alt="Profile Views"
   />
 </p>
 
 ---
+
 
 ## 📬 Let's Connect
 
