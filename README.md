@@ -61,13 +61,19 @@ I come from a small village in Indonesia. My background motivates me to keep lea
 
 A collection of practical artificial intelligence programs and classic problem-solving exercises.
 
-**Topics covered:**
-- 🎮 Single-player games
-- 🧭 Single-player games using heuristic functions
-- ❌ Tic-Tac-Toe
-- ♛ N-Queens problem
-- 🗺️ Travelling Salesman Problem
-- 🧠 Rule-based systems
+**📚 Topics Covered**
+
+1. 🎮 **Single-Player Game** — Game development and AI decision-making.
+2. 🧭 **Single-Player Game Using a Heuristic Function** — Intelligent search and heuristic evaluation.
+3. ❌ **Two-Player Game: Tic-Tac-Toe Using a Heuristic Function** — Game-tree search and strategic decision-making.
+4. ♛ **N-Queens Problem** — Constraint satisfaction and backtracking.
+5. 🗺️ **Travelling Salesman Problem (TSP)** — Optimization and pathfinding.
+6. 🧠 **Rule-Based System Development** — Building a rule-based application of your choice.
+7. 🩺 **Medical Diagnosis Expert System** — Knowledge representation, medical rules, and inference.
+8. 💧 **Breadth-First Search (BFS) for the Water Jug Problem** — Finding a solution using level-by-level search.
+9. 🔍 **Depth-First Search (DFS) for the Water Jug Problem** — Exploring states using depth-first search.
+10. 🧩 **Breadth-First Search (BFS) for the 8-Puzzle Problem** — Finding a solution using systematic state-space exploration.
+11. 🔄 **Depth-First Search (DFS) for the 8-Puzzle Problem** — Exploring puzzle states using depth-first search.
 
 <p>
 <a href="https://github.com/KukuhRiyanto/AI-Pratical">
