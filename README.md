@@ -215,41 +215,81 @@ A proposed research direction exploring how data analytics and artificial intell
 
 ---
 
-## 🧠 My Learning Roadmap
-
-```mermaid
-flowchart TD
-    A["01 | Programming Fundamentals<br/>Python · C++"] 
-    B["02 | Database Management<br/>MySQL · Oracle SQL"]
-    C["03 | Statistics & Data Analysis"]
-    D["04 | Artificial Intelligence<br/>BFS · DFS · Heuristics"]
-    E["05 | Machine Learning<br/>Prediction & Evaluation"]
-    F["06 | Advanced Analytics<br/>Graph Neural Networks"]
-    G["07 | Real-World Applications<br/>Intelligent Village Asset Management"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-
-    classDef foundation fill:#16324F,stroke:#4DA3FF,color:#FFFFFF
-    classDef analytics fill:#14532D,stroke:#4ADE80,color:#FFFFFF
-    classDef advanced fill:#3B2768,stroke:#A78BFA,color:#FFFFFF
-    classDef impact fill:#78350F,stroke:#FBBF24,color:#FFFFFF
-
-    class A,B foundation
-    class C,D analytics
-    class E,F advanced
-    class G impact
-```
+## 🧭 My Learning Roadmap
 
 <p align="center">
-  <em>Learn the fundamentals → Build practical skills → Create meaningful impact.</em>
+  <em>
+    From programming fundamentals to intelligent, data-driven solutions.
+  </em>
 </p>
 
----
+```mermaid
+flowchart TB
+    START(["🚀 THE LEARNING JOURNEY"])
+
+    subgraph S1["01 · FOUNDATIONS"]
+        direction LR
+        A["💻 Programming<br/>Python · C++"]
+        B["🗄️ Databases<br/>SQL · Data Modeling"]
+        A --> B
+    end
+
+    subgraph S2["02 · ANALYTICAL THINKING"]
+        direction LR
+        C["📊 Statistics<br/>Probability · Inference"]
+        D["📈 Data Analytics<br/>Exploration · Visualization"]
+        C --> D
+    end
+
+    subgraph S3["03 · INTELLIGENT SYSTEMS"]
+        direction LR
+        E["🧠 Artificial Intelligence<br/>BFS · DFS · Heuristics"]
+        F["🤖 Machine Learning<br/>Prediction · Evaluation"]
+        E --> F
+    end
+
+    subgraph S4["04 · ADVANCED EXPLORATION"]
+        direction LR
+        G["🔗 Graph Neural Networks<br/>Relationships · Graph Learning"]
+        H["🎯 Decision Support<br/>Optimization · Prioritization"]
+        G --> H
+    end
+
+    subgraph S5["05 · REAL-WORLD IMPACT"]
+        direction TB
+        I["🏡 INTELLIGENT VILLAGE<br/>ASSET MANAGEMENT"]
+        J["📍 Asset Potential & Valuation"]
+        K["💡 Investment Opportunities"]
+        L["🌱 Rural Economic Development"]
+        I --> J --> K --> L
+    end
+
+    START --> A
+    B --> C
+    D --> E
+    F --> G
+    H --> I
+
+    classDef start fill:#0F172A,stroke:#38BDF8,color:#FFFFFF,stroke-width:3px
+    classDef foundation fill:#172554,stroke:#60A5FA,color:#FFFFFF,stroke-width:2px
+    classDef analytics fill:#064E3B,stroke:#34D399,color:#FFFFFF,stroke-width:2px
+    classDef ai fill:#3B0764,stroke:#C084FC,color:#FFFFFF,stroke-width:2px
+    classDef advanced fill:#713F12,stroke:#FACC15,color:#FFFFFF,stroke-width:2px
+    classDef impact fill:#134E4A,stroke:#2DD4BF,color:#FFFFFF,stroke-width:2px
+
+    class START start
+    class A,B foundation
+    class C,D analytics
+    class E,F ai
+    class G,H advanced
+    class I,J,K,L impact
+
+    style S1 fill:#0F172A,stroke:#3B82F6,color:#FFFFFF
+    style S2 fill:#052E2B,stroke:#10B981,color:#FFFFFF
+    style S3 fill:#240A3D,stroke:#A855F7,color:#FFFFFF
+    style S4 fill:#422006,stroke:#EAB308,color:#FFFFFF
+    style S5 fill:#042F2E,stroke:#14B8A6,color:#FFFFFF
+```
 
 
 ### My Learning Principles
