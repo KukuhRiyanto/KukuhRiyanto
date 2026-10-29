@@ -213,17 +213,15 @@ A proposed research direction exploring how data analytics and artificial intell
 </details>
 
 
----
-
 ## 🧭 My Learning Roadmap
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["Programming Fundamentals<br/>Python · C++"]
     B["Database Management<br/>SQL · Data Modeling"]
-    C["Statistics & Data Analysis"]
-    D["Artificial Intelligence & Machine Learning"]
-    E["Intelligent Village Asset Management"]
+    C["Statistics &<br/>Data Analysis"]
+    D["AI & Machine<br/>Learning"]
+    E["Intelligent Village<br/>Asset Management"]
 
     A --> B --> C --> D --> E
 
@@ -241,10 +239,8 @@ flowchart TD
 ```
 
 <p align="center">
-  <em>Learn · Practice · Analyze · Innovate · Create Impact</em>
+  <em>Learn → Practice → Analyze → Innovate → Create Impact</em>
 </p>
-
----
 
 
 ### My Learning Principles
